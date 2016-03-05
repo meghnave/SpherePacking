@@ -1,0 +1,3912 @@
+meghna@meghna:~$ cd Desktop/SpherePacking/
+meghna@meghna:~/Desktop/SpherePacking$ gcc Spheres.c -o a.o -lm 
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.504039 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500 
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.536555 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.592151 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.565304 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.603626 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.562244 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+1Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.568816 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.600396 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.530751 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.590640 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.568538 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.537988 seconds
+meghna@meghna:~/Desktop/SpherePacking$ gcc Spheres.c -o a.o -lm 
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.514394 seconds
+meghna@meghna:~/Desktop/SpherePacking$ gcc Spheres.c -o a.o -lm 
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.579725 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.500081 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.513812 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.555514 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.518834 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.518300 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+400
+400
+400
+400Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.531196 seconds
+meghna@meghna:~/Desktop/SpherePacking$ 400
+400: command not found
+meghna@meghna:~/Desktop/SpherePacking$ 400
+400: command not found
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+300
+300
+300 
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.543751 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200 
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.451110 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.527131 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+^Z 
+[1]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.534815 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.549555 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.550647 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+100 
+100 
+100
+Radii of cirles are chosen randomly!!
+Can't place all spheres in core procedure! Failureeee!
+
+
+Time taken for the program to run: 0.010351 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+10^Z
+[2]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+^Z
+[3]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+100
+100
+100
+Radii of cirles are chosen randomly!!
+Can't place all spheres in core procedure! Failureeee!
+
+
+Time taken for the program to run: 0.011189 seconds
+meghna@meghna:~/Desktop/SpherePacking$ 
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+100
+^Z
+[4]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.311609 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.954083 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+100
+Radii of cirles are chosen randomly!!
+Can't place all spheres in core procedure! Failureeee!
+
+
+Time taken for the program to run: 0.028480 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.588498 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.592032 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.657066 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.688499 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.489343 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.894384 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.650999 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.508214 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.844137 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500 
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.866110 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.443272 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.892033 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500 
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.470683 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.617868 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.361434 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.477959 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.100855 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.951074 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.556994 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+^[[C^[[CRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.688218 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 14.369683 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.097800 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 14.586250 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 14.662364 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.429347 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000 
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.750538 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.552078 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.495147 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.090686 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+^[[DRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.818259 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 11.629734 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.033013 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.608718 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 11.829060 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.737861 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.275443 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.988491 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 11.192888 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+3003
+^Z
+[5]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.803618 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+3000
+^Z
+[6]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 11.786429 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+^[[CRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.024005 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 34.951705 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 34.914167 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.111296 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.246205 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 29.024920 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 29.221311 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 27.989482 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500 
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 27.459984 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 26.913647 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+400
+400
+400
+^Z
+[7]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 21.652690 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 21.972166 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 21.022306 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300 
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 21.407573 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 25.210393 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 69.768943 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 71.259624 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 71.423976 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 68.453294 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 67.623779 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+^Z
+[8]+  Stopped                 ./a.o
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 68.206723 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 66.197945 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 66.143756 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 69.362269 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 66.247061 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 50.368945 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 49.825571 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 54.659157 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 53.855473 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 46.824468 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+400
+400
+400
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 46.926466 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+^[[D^[[D^[[DRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 37.241846 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 39.917711 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 39.301627 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 38.909826 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./a.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 39.911547 seconds
+meghna@meghna:~/Desktop/SpherePacking$ gcc SpheresOpenmp.c -o s.o -lm -fopenmp 
+gcc: error: SpheresOpenmp.c: No such file or directory
+meghna@meghna:~/Desktop/SpherePacking$ gcc SpheresOpenMP.c -o s.o -lm -fopenmp 
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.530059 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.539061 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.531401 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.521243 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.536629 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.540919 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.533531 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.547887 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.587984 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.560399 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.522481 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.534878 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.526133 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.618453 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+5000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.546195 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.542874 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.535504 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.551920 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200 
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.513088 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.539133 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 0.531230 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.470379 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.550378 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1^Z
+[9]+  Stopped                 ./s.o
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.675526 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.655737 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.584301 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.554368 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.347859 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.389371 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.592052 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.525174 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.822983 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.690212 seconds
+meghna@meghna:~/Desktop/SpherePacking$ 
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.330712 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.734282 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.651376 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.611019 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.594639 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 3.081788 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.521739 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200 
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.406892 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 11.205678 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.414556 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.818789 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.203820 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.728083 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 11.850606 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.788389 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+100
+^Z
+[10]+  Stopped                 ./s.o
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.534472 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.902373 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+^[[BRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.017589 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500 
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.911926 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.728505 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 14.112131 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 10.669763 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.628697 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.472777 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 15.873842 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.991395 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 12.246528 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 13.105992 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 28.323513 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.190198 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 31.124208 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 31.498720 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 30.668007 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 37.482456 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 33.920673 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 41.226897 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.657395 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 42.195527 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500 
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 33.573782 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500 
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 37.305214 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 36.448077 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 45.145782 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 39.170847 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 41.822793 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 41.781616 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 41.736126 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: ^[[A
+Enter length, width, height of rectangle
+Radii of cirles are chosen randomly!!
+Can't place all spheres in core procedure! Failureeee!
+
+
+Time taken for the program to run: 0.000007 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 33.890172 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 27.098362 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 26.247812 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 30.716245 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 27.401605 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 63.708353 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 67.801605 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 73.224742 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 74.943725 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 70.121114 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 75.120593 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 73.030085 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 66.934433 seconds
+meghna@meghna:~/Desktop/SpherePacking$ 
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 67.456070 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+^[[BRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 70.584083 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 68.672803 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 77.352732 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 74.465998 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 60.221979 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 67.330011 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 55.712121 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 59.815144 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 68.844831 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 63.691823 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 59.101839 seconds
+meghna@meghna:~/Desktop/SpherePacking$ gcc SpheresOpenMP.c -o s.o -lm -fopenmp 
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 58.977113 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 58.070090 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 59.940917 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 57.860785 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 56.101011 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 59.312802 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 59.247671 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 57.529619 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 55.879796 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 59.213962 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500 
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 60.401592 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500 
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 56.506313 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 58.969115 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 57.749386 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 64.533395 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 57.412771 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+=aveRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 52.167484 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 55.414710 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+^[Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 45.260437 seconds
+meghna@meghna:~/Desktop/SpherePacking$ [A
+[A: command not found
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 53.235633 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 52.135355 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+100
+^Z
+[11]+  Stopped                 ./s.o
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.586705 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000 
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.826192 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.350039 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 33.590838 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 37.657326 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 34.672207 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.636496 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.265966 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 36.321732 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 34.734032 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 36.092722 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 33.180861 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 34.794533 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 36.721770 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 33.803552 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.855416 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.765846 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.657280 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+3003
+^Z
+[12]+  Stopped                 ./s.o
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 35.535646 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 400
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 32.993181 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 18.371500 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.275403 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 20.413205 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.378491 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 20.107777 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.006987 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.138908 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 18.967120 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.332829 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+1000
+1000
+1000
+^[[B^[[DRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.618689 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.474190 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.419281 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.350449 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300 
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.470792 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 17.486531 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.771289 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.176515 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+3^[[B^[[A^[[ARadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 18.469384 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.816764 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 300
+Enter length, width, height of rectangle
+300
+300
+300
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 19.537463 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 8.540749 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.961156 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.830786 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.497174 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 8.073752 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.961209 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.703020 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 8.137037 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.909124 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.953731 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 8.117893 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 8.009581 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500 
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.835117 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.962738 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 8.186324 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.805112 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200 
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 6.419289 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 7.126788 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 5.978830 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 5.341556 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 200
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 5.860913 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.793905 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100 
+Enter length, width, height of rectangle
+1000 
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.925032 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.816671 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.898470 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.036984 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.967635 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.872886 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.752326 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.986864 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.836512 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.929588 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+^[[D^[[DRadii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.858160 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.041397 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.964774 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+500
+500
+500
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.913491 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 2.078591 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.970376 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.945399 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.690475 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+200
+200
+200
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 1.940397 seconds
+meghna@meghna:~/Desktop/SpherePacking$ gcc SpheresOpenMP.c -o s.o -lm -fopenmp 
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 100
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 4.082438 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 89.118540 seconds
+meghna@meghna:~/Desktop/SpherePacking$ gcc SpheresOpenMP.c -o s.o -lm -fopenmp 
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+
+Enter the number of spheres: 500
+Enter length, width, height of rectangle
+1000
+1000
+1000
+Radii of cirles are chosen randomly!!
+All placed! Placed at-
+
+
+Time taken for the program to run: 75.568802 seconds
+meghna@meghna:~/Desktop/SpherePacking$ ./s.o
+

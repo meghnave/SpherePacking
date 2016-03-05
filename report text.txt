@@ -1,0 +1,41 @@
+Introduction:
+
+This project is based on a paper "Parallel greedy algorithms for packing unequal spheres into a cuboidal strip or a cuboid" by Timo Kubach, Andreas Bortfeldt, Thomas Tilli and Hermann Gehring.
+The purpose of the project is to study 3-D sphere packing problem portion of the paper the way it is done in the same. The problem presented in the paper was to check if the spheres will fit in a given size cuboid and pack them in the best density possible so that the wasted space is minimised. The same is done in this project by implementing the given logic that is used in this paper using C. It is also parallalised using OpenMP. The approach used in the paper is greedy method as whenever a sphere is placed, it is placed at the best possible location (using hole degree calcuation) and then in next step again the same is repeated without changing the previously packed spheres (unlike the conventional sphere packing problem which tries to find the absolute best possible placement).
+
+The difference with the traditional sphere packing problem: 
+The traditional sphere packing problem has a given set of spheres where we have to place them in a way such that the wasted space is minimised and the density is maximum that it can be. As we have all read in middle school, in such a case, the maximum density in case of equal sized sphere is 74% or 0.74. This problem isn't as interesting as the original sphere packing problem because in this case cuboid is pre defined and it might actually be too big for the spheres and there will be empty space left in any case which will reduce the density palcement if we compare it with the traditional way. But in this problem as well,the solution is done so that the sphere is placed at the best location possible at every step hence the spheres that are placed already, if enclosed, will have a really good packing density.
+
+
+Introduction and Key Terms for building the algorithm:  
+
+The problem that is tended to here is an NP Hard problem which means that the solution to this problem cannot be found in polynomial time but it can be verified in polynomial time. For the particualr problem of sphere packing with unequal spheres, only a few solutions have been known till now. The previous solutions to this problem have been: simulation of spheres falling in gravity method and a dynamic programming problem which is actually only a special case for the purpose of radiosurgical treatment. After these initial solutions, a few more solutions had been suggested. The one that is adapted in this algorithm is by Huang et al which was given in 2005. They did this for 2D and the writers of the paper adapted that problem for 3 dimensions.
+
+There are some basics that need to be defined in order to specify the solution of this problem:
+
+Let a sphere be S with center coordinates (xi,yi,zi) then,
+A placement p=(i,xi,yi,zi) means that the ith sphere is placed with its center at (xi,yi,zi).
+A feasible placement: is a placement if the sphere lies completely inside the cuboid and doesn't collide with any other sperhes that are already placed.
+A corner placement: A placement such that the sphere touches at least two items ie another sphere or an edge of the cuboid.
+Let u and v be the two items that are touching the sphere i.
+then the Hole Degree ^ of the corner placement p is defined as 
+
+jkwebfwbefwebfjbfjbe
+
+Here, ri is the radius of circle i while dmin is the minimal distance from circle i to otehr circles of P and the edges with the exception of items u and v.
+
+
+Image 
+
+The hole degree of a corner placement shows how close to other circles of a pllan a given circle is accomodated. The higher the mean hole degree of the placements of a placking plaan,the hgiher the density. 
+
+So,
+Maximum hole degree rule says that given a set of possible corner placements, the placement with maximum hole degree should be selected as the enxt one.
+
+The algorithm:
+
+Image of the frame procedure
+Image of the core procedure
+
+
+
